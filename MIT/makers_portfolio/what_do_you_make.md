@@ -1,0 +1,2 @@
+>Describe for us the kind(s) of thing(s) you make. This should be a general overview of your project(s); you will be able to submit pictures and video with specific descriptions later. Often, the most helpful explanations for Maker Portfolios emerge in the captions to the portfolios, where they can form a kind of narrative to help us understand how a project or projects unfolded. (900 characters)
+
