@@ -8,7 +8,7 @@
 | Amnesty International club
 | Pop Quiz club
 | National Honor Society
-| NASA Governor's School
+| NASA Governor's School                                                        
 | ChartIQ Internship
-
+tutoring?
 
