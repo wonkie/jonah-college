@@ -8,4 +8,6 @@
 | VSUP rep
 | Princeton Alumni Association Book Award
 | National AP Scholar
-
+Cyber security scholarship
+Writer's eye (too old? adds diverse achievement)
+Quiz bowl wins?
