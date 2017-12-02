@@ -2,7 +2,7 @@
   Be as specific as possible. Limit your response to approximately 500 words. 
 
 I started competing in Zero Robotics (ZR) my freshman year. It was terrifying. Surrounded by smart
-people who would casually agree to write C++ code to manipulate vectors to rotate a satelitte
+people who would casually agree to write C++ code to manipulate vectors to rotate a satellitte
 before the next meeting, I felt lost.
 After a year of experience within ZR and from Engineering class, I had the skills necessary to
 contribute code. From my new perspective, I saw that much of what I had observed the previous year was deceiving;
@@ -18,7 +18,7 @@ checked in with my teammates during meetings. If I saw someone struggling to und
 would divide a vector by its magnitude, I would draw a picture. The next year, I was able to assign
 tasks and know they would be completed.
 
-I like creating systems. I see teams as very complicated system composed of networks of
+I like creating systems. I see teams as very complicated systems composed of networks of
 interaction. A good system is efficient and robust; if someone has a lot of homework, other
 members can pick up the slack. As a leader, my role is to facilitate the efficient and appropriate
 transfer of knowledge between members of my team. Holding power gives me no pleasure, but I was
