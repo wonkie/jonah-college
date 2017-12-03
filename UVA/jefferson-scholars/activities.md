@@ -4,11 +4,8 @@
 
 | Activity	| Leadership positions held | Description (150 words max)	| Years Participated | Average hours per week | rank |
 | ------------- | ------------------------- | --------------------------------- | ------------------ | ---------------------- | ---- |
-| BACON         | co-President              |                                   | 9, 10, 11, 12      |                        |      |
-| Amnesty International club
-| Pop Quiz club
-| National Honor Society
-| NASA Governor's School                                                        
-| ChartIQ Internship
-tutoring?
-
+| BACON (Best All-around Club of Nerds) | co-president | Organizing the eight subgroups that compose BACON, providing guidance to leaders of subgroups. As part of the Zero Robotics Programming Competition, wrote C++ code to control satellites on board the International Space Station. Team was international finalist three years running. Developed training program for new recruits, created Chrome extension to provide source code management through GitHub. As part of Science Olympiad, built a rubber-band powered model plane, prepared for onsite exam on protein folding. | 9, 10, 11, 12 | 18 | 1 |
+| NASA Governor's School | |One of 12 students selected statewide for residential Governor’s School mentorship at NASA Langley . Applied unsupervised machine learning techniques to wind tunnel data, studied the subsonic transition from laminar to turbulent flow. Presented work to colleagues at Flow Physics & Control Branch. | 11 | 40 | 2 | 
+| ChartIQ Internship | | Worked full-time as a professional developer. Programmed with Javascript and other technologies including React, Git, Gulp, Webpack, and Babel to create a chat application. Work highlighted in The Daily Progress and Charlottesville Tomorrow, local news outlets. | 11 | 38 | 3 |
+| Amnesty International club | assisant President | Helped organize vigil against gender based violence, learned about human rights abuses around the world, participated in phone banking and letter writing campaigns. | 10, 11, 12 | 3 | 4 | 
+| Pop Quiz club | captain | Participated in Virgnia High School League Scholastic Bowl, appeared in episode of “It’s Academic,” the longest running quiz show of all time. Participated in “Battle of the Brains,” broadcast on CBS 6 Richmond. | 10, 11, 12 | 3 | 5 |
