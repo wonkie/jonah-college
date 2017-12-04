@@ -6,6 +6,6 @@ Limit your entries to the 10 most significant awards. If we are not likely to re
 | National Merit Scholar Semi-finalist |     | 12              | 2    |  |
 | Zero Robotics International Finalist | The international alliances that I have been a part of participated in a live-stream of the final round of competition that was broadcast live from the International Space Station | 9, 10, 11 | 1 | http://zerorobotics.mit.edu/ | 
 | VSUP representative | chosen by my school to discuss solutions to problems in education | 11 | 5 | http://www.vsup.org/index.php/student-leadership-conference/general-information |  
-| Princeton Alumni Association Book Award | chosen for academic performance | 12 | 4 | 
+| Princeton Alumni Association Book Award | chosen for academic performance | 11 | 4 | 
 | National AP Scholar | | 11 | 6 | |
 | Cyberstart Scholarship recipient | awarded for performance in cybersecurity competition | 12 | 3 | https://www.sans.org/CyberStartUS |
