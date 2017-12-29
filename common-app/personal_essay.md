@@ -3,10 +3,8 @@
   Choose the option that best helps you answer that question and write an essay of no more than 650 words, using the prompt to inspire and structure your response.
   Remember: 650 words is your limit, not your goal. Use the full range if you need it, but don't feel obligated to do so.
   (The application won't accept a response shorter than 250 words.)
-  Describe a problem you've solved or a problem you'd like to solve.
-  It can be an intellectual challenge, a research query, an ethical dilemma-anything that is of personal importance, no matter the scale.
-  Explain its significance to you and what steps you took or could be taken to identify a solution.
-
+  Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?
+  
 I don't know what love is, but I know I love a binary file. I'm referring to a program called Git, and it can change the world.
 
 I began programming in elementary school. I knew my dad did something with computers, and it didn't look too much harder than typing funky green text into a black terminal. The early work I did was mostly dragging and dropping blocks to make a cat dance on the screen, but I was just brushing the surface of a deep field.
