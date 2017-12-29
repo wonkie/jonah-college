@@ -14,7 +14,7 @@ In its current state, the internet is dominanted by a handful of powerful player
 Start-ups have little choice but to use Facebook and Google for advertising and Microsoft or Amazon for cloud services.
 Some people's entire online experience is filtered through Facebook.
 Corporations control your perception of events and the data that represents who you are. 
-While getting all your news from Facebook and your shopping through Amazon, this arrangement places enormous trust on insitutions that are obligated to make a profit, not protect your interests.
+While getting all your news from Facebook and your shopping through Amazon is convenient, this arrangement places enormous trust on insitutions that are obligated to make a profit, not protect your interests.
 The last presidential election proved that these companies have more power than even they understand.
 For the sake of our democracy, we must decentralize that power, and IPFS gives a concrete path to doing so.
 
