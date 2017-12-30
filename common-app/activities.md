@@ -10,4 +10,4 @@
 | assistant president, Amnesty International club                     | Helped organize vigil against gender based violence, learned about human rights abuses around the world, phone banked and wrote letters | 
 | captain, Pop Quiz club                                              | Participated in Virgnia High School League Scholastic Bowl and the quiz shows “It’s Academic” and “Battle of the Brains” |
 | National Honor Society | Tutored upper-elementary students in all subjects, assisted in STEM activity nights for local elementary students. |
-
+| co-founder, Go Club | played the game of Go and discussed AlphaGo, Google's Go-playing AI | 
