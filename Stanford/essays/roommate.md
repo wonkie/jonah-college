@@ -9,5 +9,5 @@ Their absurdity is no match for surreal memes, however.
 As the name would suggest, surreal memes aim to make the viewer question reality.
 These memes make astute cultural observations, such as "haha mortal you thought the void had no cactus, but here is the void and clearly there is a cactus."
 They take nothing seriously, which is refreshing.
-I sometimes feel called upon to share a little light-hearted memory. 
+I sometimes feel called upon to share a little light-hearted "memery". 
 My roommate doesn't have to share my taste in memes, but he should at least know what to expect from me.
