@@ -15,4 +15,5 @@ For the sake of our democracy, we must decentralize that power, and IPFS gives a
 
 The current internet could not cleanly migrate to IPFS; many fundamental design changes would be required.
 IPFS applications must be decentralized, which not only creates a more robust system (useful for the developing world) but prevents third-parties from controllling the data.
-I am eager to help IPFS succeed and learn more about decentralized systems, so I have found that contributing to the open-source projects of the IPFS community is the best way to do that.
+I am eager to help IPFS succeed and learn more about decentralized systems.
+I have accomplished both by contributing to the open-source projects of the IPFS community.
