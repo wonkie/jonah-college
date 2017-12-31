@@ -4,11 +4,16 @@
     What work of art, music, science, mathematics, or literature has surprised, unsettled, or challenged you, and in what way?
     (max 300)
 
-Neal Stephenson's *Snowcrash* paints a world of sophisticated technology and extreme poverty.
+Neal Stephenson's *Snowcrash* is a world of sophisticated technology and extreme poverty.
 It is a society where governments have been totally privatized, and religions and neighborhoods turn into businesses.
-Though taken to an extreme, *Snowcrash* was written to reflect trends and tendencies that are all around us.  
+While some schools of political thought would praise this world as efficient and economically free, I was troubled by its inequality.
+
+The most concerning aspect of *Snowcrash* was its plausibility; the pressure to fully yield power to corporations exists in our current system.
 As a programmer and a reader of the technology section of the New York Times, I am well aware of the ravenous energy of Silicon Valley.
-On the flip side, I look forward to contributing to the field of artificial intelligence and therfore helping people, such as by improving early diagnosis of diseases.
-*Snowcrash* is a warning that corporate control of everything leaves little room for self-determination.
-Already, consumer data is controlled by only a handful of comapnies.
-We need a compassionate world view, one that values human dignity over coporate profits.
+The desire for wealth has driven a lot of progress, but there is an accompanying disregard for the value of existing institutions, exemplified by Facebook's former motto: "move fast and break things."
+The institutions of democracy are particularly sensitive to disruption.
+In *Snowcrash*, even the judiciary system is bought with money.
+Focusing on money as a means in and of itself prevents us from seeing the central role that honor and morality play in the functioning of society.
+Money is a convenient way to distribute things of value, but few would want to live in a world where every action is motivated by a desire to increase one's net worth.
+It may seem obvious, but it is critical lesson in an age of corporate consolidation and massive lobbying efforts.
+To keep *Snowcrash* a fiction, we must hold human dignity above profits.
