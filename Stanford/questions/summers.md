@@ -3,4 +3,4 @@
 
 Two summers ago, I stayed at a nature camp, hiking and learning about the natural world.
 
-Last summer, I participated in the Virginia Governor's school working at NASA/Langley, where I messed around with unsupervised machine learning. I also coded ReactJS for an internship at a local financial technology start-up.
+Last summer, I participated in the Virginia Governor's school working at NASA/Langley, where I messed around with unsupervised machine learning. I also coded javascript for an internship at a local financial technology start-up.
